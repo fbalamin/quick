@@ -1,2 +1,2 @@
 # quick
-This is my first porject.
+https://fbalamin.github.io/quick/
